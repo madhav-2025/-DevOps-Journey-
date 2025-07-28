@@ -1,0 +1,6 @@
+Git Init
+---------
+- Command: git init
+- Kaam: Ek naye git repository ko initialize karta hai
+- Output: .git directory ban jata hai
+
